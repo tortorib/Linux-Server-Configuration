@@ -4,6 +4,8 @@
 
 ssh grader@18.220.128.196 -p 2200 -i ~/.ssh/id_rsa
 
+grader passphrase= bmt144809
+
 http://18.220.128.196
 
 18.220.128.196
